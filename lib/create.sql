@@ -1,5 +1,5 @@
 CREATE TABLE cats(
-PRIMARY KEY (P_id),
+id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER,
 gender char(1), 
